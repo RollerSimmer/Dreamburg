@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="City Game Code Isolation" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ctycdiso" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="40 &gt; output.txt" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Linker>
+			<Add library="/usr/lib/liballeg.so.4.2" />
+		</Linker>
+		<Unit filename="../CityGameClasses/OOAllegro/OOAllegro.h" />
+		<Unit filename="../CityGameClasses/OOAllegro/OOAllegroPage.cpp" />
+		<Unit filename="../CityGameClasses/OOAllegro/OOAllegroPage.h" />
+		<Unit filename="../CityGameClasses/OOAllegro/OOAllegro_Init.cpp" />
+		<Unit filename="../CityGameClasses/Shires.cpp" />
+		<Unit filename="../CityGameClasses/Shires.h" />
+		<Unit filename="../CityGameClasses/ShuffleQueue.cpp" />
+		<Unit filename="../CityGameClasses/ShuffleQueue.h" />
+		<Unit filename="../CityGameClasses/Spaces.cpp" />
+		<Unit filename="../CityGameClasses/Spaces.h" />
+		<Unit filename="../CityGameClasses/Testing/ColorCodedTradeBal.cpp" />
+		<Unit filename="../CityGameClasses/Testing/ColorCodedTradeBal.h" />
+		<Unit filename="../CityGameClasses/Testing/PathNetDisplay.cpp" />
+		<Unit filename="../CityGameClasses/Testing/PathNetDisplay.h" />
+		<Unit filename="../CityGameClasses/TradeItems.h" />
+		<Unit filename="../CityGameClasses/Ward.cpp" />
+		<Unit filename="../CityGameClasses/Ward.h" />
+		<Unit filename="../CityGameClasses/ZoneRef.cpp" />
+		<Unit filename="../CityGameClasses/ZoneRef.h" />
+		<Unit filename="../CityGameClasses/codeview.h" />
+		<Unit filename="../CityGameClasses/drawstackentry.cpp" />
+		<Unit filename="../CityGameClasses/drawstackentry.h" />
+		<Unit filename="../CityGameClasses/log.txt" />
+		<Unit filename="../CityGameClasses/map.cpp" />
+		<Unit filename="../CityGameClasses/map.h" />
+		<Unit filename="../CityGameClasses/mappatternindex.cpp" />
+		<Unit filename="../CityGameClasses/mappatternindex.h" />
+		<Unit filename="../CityGameClasses/neighbors.cpp" />
+		<Unit filename="../CityGameClasses/neighbors.h" />
+		<Unit filename="../CityGameClasses/tilesize.cpp" />
+		<Unit filename="../CityGameClasses/tilesize.h" />
+		<Unit filename="../CityGameClasses/zonedims.h" />
+		<Unit filename="../CityGameClasses/zonepattern.cpp" />
+		<Unit filename="../CityGameClasses/zonepattern.h" />
+		<Unit filename="../CityGameClasses/zonepatternlist.cpp" />
+		<Unit filename="../CityGameClasses/zonepatternlist.h" />
+		<Unit filename="filelist.txt" />
+		<Unit filename="output.txt" />
+		<Unit filename="tradebalance.cpp" />
+		<Unit filename="trafficsim.cpp" />
+		<Unit filename="../intvector2d/intvector2d.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

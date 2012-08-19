@@ -1,0 +1,5 @@
+/media/B81D-8323/game projects/city/2d/images/test/remaps/spectrum.pcx
+/media/B81D-8323/game projects/city/2d/images/test/remaps/houston.pcx
+/media/B81D-8323/game projects/city/2d/images/test/remaps/memphis.pcx
+/media/B81D-8323/game projects/city/2d/images/test/remaps/PopaAl-06.pcx
+

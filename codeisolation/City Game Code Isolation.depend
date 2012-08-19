@@ -1,0 +1,352 @@
+# depslib dependency file v1.0
+1310596481 source:/media/B81D-8323/game projects/city/2d/codeisolation/pathdist.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+
+1310780408 source:/media/B81D-8323/game projects/city/2d/codeisolation/pathnetwork.cpp
+	<iostream>
+	<allegro.h>
+	<types/mytypes.h>
+	<cstdlib>
+	<ctime>
+	<list>
+	<sstream>
+
+1314029892 source:/media/B81D-8323/game projects/city/2d/codeisolation/mapDraw.cpp
+	<iostream>
+	<allegro.h>
+	<types/mytypes.h>
+	<cstdlib>
+	<ctime>
+	<list>
+	<sstream>
+
+1311577328 source:/media/B81D-8323/game projects/city/2d/codeisolation/RGBWCH.cpp
+	<iostream>
+	<allegro.h>
+	<types/mytypes.h>
+	<cstdlib>
+	<ctime>
+	<list>
+	<sstream>
+
+1311729724 source:/media/B81D-8323/game projects/city/2d/codeisolation/RGBWCHwBitmap.cpp
+	<iostream>
+	<allegro.h>
+	<types/mytypes.h>
+	<cstdlib>
+	<ctime>
+	<list>
+	<sstream>
+	<fstream>
+
+1315452824 source:/media/B81D-8323/game projects/city/2d/codeisolation/reducedHood.cpp
+	<iostream>
+	<allegro.h>
+	<types/mytypes.h>
+	<cstdlib>
+	<ctime>
+	<list>
+	<sstream>
+	<fstream>
+	"intvector2d.h"
+
+1312367802 source:/media/B81D-8323/game projects/city/2d/codeisolation/intvector2d.cpp
+	"intvector2d.h"
+
+1312367808 /media/B81D-8323/game projects/city/2d/codeisolation/intvector2d.h
+	<cstdlib>
+	<types/mytypes.h>
+
+1312741997 source:/media/B81D-8323/game projects/city/2d/codeisolation/hoodhierarchy.cpp
+	<iostream>
+	<allegro.h>
+	<types/mytypes.h>
+	<cstdlib>
+	<ctime>
+	<list>
+	<sstream>
+	<fstream>
+	<stack>
+	"zonepattern.h"
+	"tilesize.h"
+
+1314133502 /media/B81D-8323/game projects/city/2d/codeisolation/zonepattern.h
+	<iostream>
+	<types/mytypes.h>
+	<allegro.h>
+	<vector>
+	<cstdlib>
+	"tilesize.h"
+	<sstream>
+
+1313264972 /media/B81D-8323/game projects/city/2d/codeisolation/tilesize.h
+	<types/mytypes.h>
+
+1314497326 source:/media/B81D-8323/game projects/city/2d/codeisolation/tilesize.cpp
+	"tilesize.h"
+
+1314133564 source:/media/B81D-8323/game projects/city/2d/codeisolation/zonepattern.cpp
+	"zonepattern.h"
+	"tilesize.h"
+	<sstream>
+	<iostream>
+
+1313801386 source:/media/B81D-8323/game projects/city/2d/codeisolation/bitmapDivide.cpp
+	<iostream>
+	<allegro.h>
+	<types/mytypes.h>
+	<cstdlib>
+	<ctime>
+	<list>
+	<sstream>
+	"zonepattern.h"
+
+1313679551 source:/media/B81D-8323/game projects/city/2d/codeisolation/xortest.cpp
+	<iostream>
+
+1315193175 source:/media/B81D-8323/game projects/city/2d/codeisolation/map.cpp
+	"map.h"
+	<list>
+
+1315190610 /media/B81D-8323/game projects/city/2d/codeisolation/map.h
+	<types/mytypes.h>
+	"zonepatternlist.h"
+	"mappatternindex.h"
+
+1314509230 source:/media/B81D-8323/game projects/city/2d/codeisolation/mapPlop.cpp
+	<iostream>
+	<allegro.h>
+	<types/mytypes.h>
+	<cstdlib>
+	<ctime>
+	<list>
+	<sstream>
+	"map.h"
+
+1315190672 /media/B81D-8323/game projects/city/2d/codeisolation/zonepatternlist.h
+	"zonepattern.h"
+	"drawstackentry.h"
+
+1314133468 source:/media/B81D-8323/game projects/city/2d/codeisolation/zonepatternlist.cpp
+	"zonepatternlist.h"
+
+1315193224 /media/B81D-8323/game projects/city/2d/codeisolation/drawstackentry.h
+	"mappatternindex.h"
+
+1315191423 source:/media/B81D-8323/game projects/city/2d/codeisolation/drawstackentry.cpp
+	"drawstackentry.h"
+
+1315193147 /media/B81D-8323/game projects/city/2d/codeisolation/mappatternindex.h
+	<types/mytypes.h>
+
+1315193241 source:/media/B81D-8323/game projects/city/2d/codeisolation/mappatternindex.cpp
+	"mappatternindex.h"
+	"zonedims.h"
+
+1315192956 /media/B81D-8323/game projects/city/2d/codeisolation/zonedims.h
+	<types/mytypes.h>
+
+1337686750 source:/home/ja227/Desktop/c++ projects/codeisolation/mapPlop_v2.cpp
+	<iostream>
+	<allegro.h>
+	<types/mytypes.h>
+	<cstdlib>
+	<ctime>
+	<list>
+	<sstream>
+	"../CityGameClasses/map.h"
+
+1338488935 /home/ja227/Desktop/c++ projects/CityGameClasses/map.h
+	<types/mytypes.h>
+	"zonepatternlist.h"
+	"mappatternindex.h"
+
+1337952916 /home/ja227/Desktop/c++ projects/CityGameClasses/zonepatternlist.h
+	"zonepattern.h"
+	"drawstackentry.h"
+
+1337953902 /home/ja227/Desktop/c++ projects/CityGameClasses/zonepattern.h
+	<iostream>
+	<types/mytypes.h>
+	<allegro.h>
+	<vector>
+	<cstdlib>
+	"tilesize.h"
+	"TradeItems.h"
+	<sstream>
+
+1313264972 /home/ja227/Desktop/c++ projects/CityGameClasses/tilesize.h
+	<types/mytypes.h>
+
+1315193224 /home/ja227/Desktop/c++ projects/CityGameClasses/drawstackentry.h
+	"mappatternindex.h"
+
+1338212952 /home/ja227/Desktop/c++ projects/CityGameClasses/mappatternindex.h
+	<types/mytypes.h>
+
+1338213363 source:/home/ja227/Desktop/c++ projects/CityGameClasses/map.cpp
+	"map.h"
+	<list>
+
+1337952742 source:/home/ja227/Desktop/c++ projects/CityGameClasses/zonepatternlist.cpp
+	"zonepatternlist.h"
+
+1337686424 source:/home/ja227/Desktop/c++ projects/CityGameClasses/ZoneRef.cpp
+	"ZoneRef.h"
+
+1337686346 /home/ja227/Desktop/c++ projects/CityGameClasses/ZoneRef.h
+	"zonepatternlist.h"
+
+1315191422 source:/home/ja227/Desktop/c++ projects/CityGameClasses/drawstackentry.cpp
+	"drawstackentry.h"
+
+1315193240 source:/home/ja227/Desktop/c++ projects/CityGameClasses/mappatternindex.cpp
+	"mappatternindex.h"
+	"zonedims.h"
+
+1315192956 /home/ja227/Desktop/c++ projects/CityGameClasses/zonedims.h
+	<types/mytypes.h>
+
+1337686930 source:/home/ja227/Desktop/c++ projects/CityGameClasses/tilesize.cpp
+	"tilesize.h"
+
+1337687866 source:/home/ja227/Desktop/c++ projects/CityGameClasses/zonepattern.cpp
+	"zonepattern.h"
+	"tilesize.h"
+	<sstream>
+	<iostream>
+
+1338759158 /home/ja227/Desktop/c++ projects/CityGameClasses/TradeItems.h
+	<types/mytypes.h>
+
+1338214134 source:/home/ja227/Desktop/c++ projects/codeisolation/trafficsim.cpp
+	"../CityGameClasses/Shires.h"
+	"../CityGameClasses/map.h"
+	<algorithm>
+	<ctime>
+
+1339205384 /home/ja227/Desktop/c++ projects/CityGameClasses/Shires.h
+	"Ward.h"
+
+1338765567 /home/ja227/Desktop/c++ projects/CityGameClasses/Ward.h
+	"map.h"
+	"Spaces.h"
+	"neighbors.h"
+
+1338658910 /home/ja227/Desktop/c++ projects/CityGameClasses/Spaces.h
+	"TradeItems.h"
+	"zonepatternlist.h"
+
+1339205612 source:/home/ja227/Desktop/c++ projects/CityGameClasses/Shires.cpp
+	"Shires.h"
+	"neighbors.h"
+	"map.h"
+	"zonepatternlist.h"
+	"../intvector2d/intvector2d.h"
+	<stack>
+	<queue>
+	<list>
+
+1338137311 source:/home/ja227/Desktop/c++ projects/CityGameClasses/Spaces.cpp
+	"Spaces.h"
+
+1332650382 /home/ja227/Desktop/c++ projects/intvector2d/intvector2d.h
+
+1338766782 /home/ja227/Desktop/c++ projects/CityGameClasses/neighbors.h
+
+1337249526 source:/home/ja227/Desktop/c++ projects/intvector2d/intvector2d.cpp
+	"../intvector2d/intvector2d.h"
+	<cmath>
+	<cstdlib>
+	<algorithm>
+	<iostream>
+
+1335476702 source:/home/ja227/Desktop/c++ projects/CityGameClasses/ShuffleQueue.cpp
+	"ShuffleQueue.h"
+
+1335476702 /home/ja227/Desktop/c++ projects/CityGameClasses/ShuffleQueue.h
+	<queue>
+
+1338759170 source:/home/ja227/Desktop/c++ projects/CityGameClasses/Ward.cpp
+	"Ward.h"
+	"neighbors.h"
+	"../intvector2d/intvector2d.h"
+	<stack>
+	<algorithm>
+
+1337942389 source:/home/ja227/Desktop/c++ projects/CityGameClasses/neighbors.cpp
+	"neighbors.h"
+
+1338763792 source:/home/ja227/Desktop/c++ projects/codeisolation/tradebalance.cpp
+	"../CityGameClasses/Shires.h"
+	"../CityGameClasses/map.h"
+	"../CityGameClasses/OOAllegro/OOAllegro.h"
+	"../CityGameClasses/Testing/ColorCodedTradeBal.h"
+	<algorithm>
+	<ctime>
+
+1338666955 source:/home/ja227/Desktop/c++ projects/CityGameClasses/OOAllegro/OOAllegroPage.cpp
+	"OOAllegroPage.h"
+	<algorithm>
+
+1338670770 /home/ja227/Desktop/c++ projects/CityGameClasses/OOAllegro/OOAllegroPage.h
+	<allegro.h>
+
+1338659565 source:/home/ja227/Desktop/c++ projects/CityGameClasses/OOAllegro/OOAllegro_Init.cpp
+	"OOAllegro.h"
+	<allegro.h>
+	<iostream>
+
+1338659369 /home/ja227/Desktop/c++ projects/CityGameClasses/OOAllegro/OOAllegro.h
+
+1338763143 source:/home/ja227/Desktop/c++ projects/CityGameClasses/Testing/ColorCodedTradeBal.cpp
+	"ColorCodedTradeBal.h"
+	"../OOAllegro/OOAllegroPage.h"
+
+1338762231 /home/ja227/Desktop/c++ projects/CityGameClasses/Testing/ColorCodedTradeBal.h
+	"../Shires.h"
+	"../OOAllegro/OOAllegroPage.h"
+
+1314133468 source:/home/ja227/Desktop/c++ projects/codeisolation/zonepatternlist.cpp
+	"zonepatternlist.h"
+
+1315190672 /home/ja227/Desktop/c++ projects/codeisolation/zonepatternlist.h
+	"zonepattern.h"
+	"drawstackentry.h"
+
+1314133502 /home/ja227/Desktop/c++ projects/codeisolation/zonepattern.h
+	<iostream>
+	<types/mytypes.h>
+	<allegro.h>
+	<vector>
+	<cstdlib>
+	"tilesize.h"
+	<sstream>
+
+1313264972 /home/ja227/Desktop/c++ projects/codeisolation/tilesize.h
+	<types/mytypes.h>
+
+1315193224 /home/ja227/Desktop/c++ projects/codeisolation/drawstackentry.h
+	"mappatternindex.h"
+
+1315193146 /home/ja227/Desktop/c++ projects/codeisolation/mappatternindex.h
+	<types/mytypes.h>
+
+1338769090 source:/home/ja227/Desktop/c++ projects/CityGameClasses/Testing/PathNetDisplay.cpp
+	"PathNetDisplay.h"
+	<iostream>
+
+1338763141 /home/ja227/Desktop/c++ projects/CityGameClasses/Testing/PathNetDisplay.h
+	"../Shires.h"
+	"../OOAllegro/OOAllegroPage.h"
+
+1338768934 source:/home/ja227/Desktop/c++ projects/codeisolation/pathnets.cpp
+	"../CityGameClasses/Shires.h"
+	"../CityGameClasses/map.h"
+	"../CityGameClasses/OOAllegro/OOAllegro.h"
+	"../CityGameClasses/Testing/PathNetDisplay.h"
+	<algorithm>
+	<ctime>
+

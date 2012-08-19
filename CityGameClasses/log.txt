@@ -1,0 +1,48 @@
+2012:May:22:AM:07:20
+	+	Added trade items
+	+	Moved City game files into a new folder CityGameClasses
+	+	it is now compatible with codeisolation modules.
+2012:May:25:AM:08:54
+	+	Added some more ward functions, mostly for path finding and connections.  
+	+	reorganized some code and added Zone() funcs to zonepatternlist and Map::Data classes/structs
+2012:May:27:PM:12:00
+	+	Added code for finding a neighboring surplus in the Shire class.
+2012:May:28:PM:10:03
+	+	Piecing together code for a traffic sim.
+	+	fixed problems in Map::Data's map member.  Now it's a dynamic array.
+	+	Added more IsConnected functions to Ward, and distinguished them from FindConnection
+		+	FindConnection searches tiles for paths across ward
+		+	IsConnected simply looks at isconnectedAry array members.
+	+	Went to walmart today and bought 55 dollars worth of stuff....
+2012:May:29:AM:09:45
+	+	made methods in both Shire and Ward classes that process airing, making, and taking
+		trade items.  
+	+	Also the trade item balances are balanced whether they are in the two unsigned-value format
+		or single signed value format.
+2012:Jun:01:PM:07:19
+	+	Added skeletons for user interface classes
+2012:Jun:02:PM:06:21
+	+	Made a class to draw a color-coded balance viewer for the whole shire
+	+	Shire's now trade item values between wards to balance things out.
+		+	It needs a random seed count, so not all values are processed.
+		+	Need to figure in either network matches or findconnection routine for logical ward connections
+		+	Could just ignore the connection and just make the commute slower if not connected.  
+			+	would need to actually add a commute time value to do so.
+	+	Fixed various problems
+	+	Started a set of classes for an object-oriented encapsulation of allegro 4.2 functions.
+2012:Jun:03:PM:07:19
+	+	Made a path net updating function and a function to renumber path networks for trade
+		(Note: a path network is just a set of linked wards(32x32 tile areas))
+	+	made a path net display class for testing.  
+	+	The path net methods seem to work well with the randomly generated connections.  
+	+	now to implement path networks into trade between wards and balancing... I think i have the hard part
+		out of the way.
+2012:Jun:24:PM:12:00
+	+	Wow, 21 days since last edit...have been working in notebook though
+	+	Created ShireTraffic class, which will simulate traffic through "vehicle sampling".
+	+	Still working on ShireTraffic and the updates I had to make to Shire an Ward.
+	+	Also created TrafficVehicle class and need to make sure everything works there 
+		too.
+	
+			
+		

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="../CityGameClasses/OOAllegro/OOAllegroPage.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="369" topLine="8" />
+	</File>
+	<File name="../CityGameClasses/OOAllegro/OOAllegroPage.h" open="0" top="0" tabpos="0">
+		<Cursor position="381" topLine="0" />
+	</File>
+	<File name="../CityGameClasses/OOAllegro/OOAllegro_Init.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="360" topLine="0" />
+	</File>
+	<File name="../CityGameClasses/Shires.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="15289" topLine="613" />
+	</File>
+	<File name="../CityGameClasses/Shires.h" open="0" top="0" tabpos="3">
+		<Cursor position="561" topLine="0" />
+	</File>
+	<File name="../CityGameClasses/Spaces.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="310" topLine="0" />
+	</File>
+	<File name="../CityGameClasses/Spaces.h" open="0" top="0" tabpos="2">
+		<Cursor position="93" topLine="0" />
+	</File>
+	<File name="../CityGameClasses/Testing/ColorCodedTradeBal.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="448" topLine="14" />
+	</File>
+	<File name="../CityGameClasses/Testing/ColorCodedTradeBal.h" open="0" top="0" tabpos="0">
+		<Cursor position="383" topLine="0" />
+	</File>
+	<File name="../CityGameClasses/Testing/PathNetDisplay.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="48" topLine="0" />
+	</File>
+	<File name="../CityGameClasses/TradeItems.h" open="0" top="0" tabpos="5">
+		<Cursor position="1010" topLine="0" />
+	</File>
+	<File name="../CityGameClasses/Ward.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="9848" topLine="378" />
+	</File>
+	<File name="../CityGameClasses/Ward.h" open="0" top="0" tabpos="1">
+		<Cursor position="1097" topLine="30" />
+	</File>
+	<File name="../CityGameClasses/ZoneRef.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="960" topLine="12" />
+	</File>
+	<File name="../CityGameClasses/ZoneRef.h" open="0" top="0" tabpos="0">
+		<Cursor position="215" topLine="0" />
+	</File>
+	<File name="../CityGameClasses/log.txt" open="0" top="0" tabpos="0">
+		<Cursor position="972" topLine="0" />
+	</File>
+	<File name="../CityGameClasses/map.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="6383" topLine="31" />
+	</File>
+	<File name="../CityGameClasses/map.h" open="0" top="0" tabpos="0">
+		<Cursor position="501" topLine="10" />
+	</File>
+	<File name="../CityGameClasses/mappatternindex.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="29" topLine="0" />
+	</File>
+	<File name="../CityGameClasses/neighbors.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="22" topLine="0" />
+	</File>
+	<File name="../CityGameClasses/neighbors.h" open="0" top="0" tabpos="0">
+		<Cursor position="133" topLine="0" />
+	</File>
+	<File name="../CityGameClasses/tilesize.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="67" topLine="0" />
+	</File>
+	<File name="../CityGameClasses/zonepattern.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="368" topLine="19" />
+	</File>
+	<File name="../CityGameClasses/zonepattern.h" open="0" top="0" tabpos="0">
+		<Cursor position="2073" topLine="70" />
+	</File>
+	<File name="../CityGameClasses/zonepatternlist.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1769" topLine="54" />
+	</File>
+	<File name="../CityGameClasses/zonepatternlist.h" open="0" top="0" tabpos="0">
+		<Cursor position="1544" topLine="35" />
+	</File>
+	<File name="filelist.txt" open="0" top="0" tabpos="0">
+		<Cursor position="71" topLine="0" />
+	</File>
+	<File name="output.txt" open="0" top="0" tabpos="0">
+		<Cursor position="22" topLine="345597" />
+	</File>
+	<File name="tradebalance.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="1196" topLine="0" />
+	</File>
+	<File name="trafficsim.cpp" open="1" top="1" tabpos="0">
+		<Cursor position="284" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
