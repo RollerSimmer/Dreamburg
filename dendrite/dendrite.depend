@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1337055210 source:/home/ja227/Desktop/c++ projects/dendrite/main.cpp
+	"dendrite.h"
+	"DendriteDrawer.h"
+	<iostream>
+	<allegro.h>
+	<algorithm>
+	<ctime>
+
+1337056516 source:/home/ja227/Desktop/c++ projects/dendrite/dendrite.cpp
+	<allegro.h>
+	"dendrite.h"
+	<algorithm>
+	<iostream>
+	<cstring>
+	<list>
+	<stack>
+	"startdirs.inl"
+
+1337057684 /home/ja227/Desktop/c++ projects/dendrite/dendrite.h
+	"ShuffleQueue.h"
+
+1337055281 source:/home/ja227/Desktop/c++ projects/dendrite/DendriteDrawer.cpp
+	"DendriteDrawer.h"
+
+1335564504 /home/ja227/Desktop/c++ projects/dendrite/DendriteDrawer.h
+	"dendrite.h"
+	<allegro.h>
+
+1335135759 /home/ja227/Desktop/c++ projects/dendrite/startdirs.inl
+
+1335476702 /home/ja227/Desktop/c++ projects/dendrite/ShuffleQueue.h
+	<queue>
+
+1335476702 source:/home/ja227/Desktop/c++ projects/dendrite/ShuffleQueue.cpp
+	"ShuffleQueue.h"
+

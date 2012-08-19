@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="../chaser/intvector2d.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1671" topLine="154" />
+	</File>
+	<File name="../dendrite/DendriteDrawer.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="../dendrite/dendrite.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="13417" topLine="632" />
+	</File>
+	<File name="IsoTerrain.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="14067" topLine="587" />
+	</File>
+	<File name="IsoTerrain.h" open="0" top="0" tabpos="4">
+		<Cursor position="681" topLine="0" />
+	</File>
+	<File name="MapDrawer.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="2178" topLine="130" />
+	</File>
+	<File name="MapDrawer.h" open="1" top="0" tabpos="4">
+		<Cursor position="52" topLine="2" />
+	</File>
+	<File name="NeighborTally.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="20" topLine="6" />
+	</File>
+	<File name="NeighborTally.h" open="0" top="0" tabpos="0">
+		<Cursor position="121" topLine="0" />
+	</File>
+	<File name="RiverEroder.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="2157" topLine="87" />
+	</File>
+	<File name="RiverEroder.h" open="0" top="0" tabpos="2">
+		<Cursor position="312" topLine="18" />
+	</File>
+	<File name="SlopeFaller.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1400" topLine="36" />
+	</File>
+	<File name="SlopeFaller.h" open="0" top="0" tabpos="0">
+		<Cursor position="45" topLine="0" />
+	</File>
+	<File name="TerrainColors.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="97" topLine="0" />
+	</File>
+	<File name="TerrainColors.h" open="0" top="0" tabpos="7">
+		<Cursor position="55" topLine="0" />
+	</File>
+	<File name="TerrainEroder.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="123" topLine="0" />
+	</File>
+	<File name="TerrainEroder.h" open="0" top="0" tabpos="1">
+		<Cursor position="250" topLine="0" />
+	</File>
+	<File name="intvector2d.h" open="0" top="0" tabpos="0">
+		<Cursor position="37" topLine="0" />
+	</File>
+	<File name="intvector3d.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="63" topLine="1" />
+	</File>
+	<File name="intvector3d.h" open="0" top="0" tabpos="0">
+		<Cursor position="69" topLine="5" />
+	</File>
+	<File name="log.txt" open="0" top="0" tabpos="1">
+		<Cursor position="3438" topLine="52" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="7182" topLine="190" />
+	</File>
+	<File name="output.txt" open="0" top="0" tabpos="5">
+		<Cursor position="25" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

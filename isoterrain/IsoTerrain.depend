@@ -1,0 +1,142 @@
+# depslib dependency file v1.0
+1332650359 source:/home/ja227/Desktop/c++ projects/chaser/intvector2d.cpp
+	"intvector2d.h"
+	<cmath>
+	<cstdlib>
+	<algorithm>
+	<iostream>
+
+1332650382 /home/ja227/Desktop/c++ projects/chaser/intvector2d.h
+
+1337047756 source:/home/ja227/Desktop/c++ projects/isoterrain/IsoTerrain.cpp
+	"IsoTerrain.h"
+	"TerrainEroder.h"
+	"RiverEroder.h"
+	"../dendrite/DendriteDrawer.h"
+	<algorithm>
+	"intvector2d.h"
+	<iostream>
+	<cmath>
+
+1337047879 /home/ja227/Desktop/c++ projects/isoterrain/IsoTerrain.h
+	"../dendrite/dendrite.h"
+	<types/mytypes.h>
+
+1332925189 source:/home/ja227/Desktop/c++ projects/isoterrain/MapDrawer.cpp
+	"MapDrawer.h"
+	"TerrainColors.h"
+	<iostream>
+	<types/mytypes.h>
+
+1337228386 /home/ja227/Desktop/c++ projects/isoterrain/MapDrawer.h
+	"../intvector2d/intvector2d.h"
+	"IsoTerrain.h"
+	<types/mytypes.h>
+	<allegro.h>
+	<algorithm>
+
+1325501025 /home/ja227/Desktop/c++ projects/isoterrain/intvector2d.h
+	"../chaser/intvector2d.h"
+
+1337047676 source:/home/ja227/Desktop/c++ projects/isoterrain/main.cpp
+	<iostream>
+	<allegro.h>
+	"MapDrawer.h"
+	"IsoTerrain.h"
+	"TerrainEroder.h"
+	"RiverEroder.h"
+	<algorithm>
+	<sstream>
+
+1326281664 source:/home/ja227/Desktop/c++ projects/isoterrain/intvector3d.cpp
+	"intvector3d.h"
+	"intvector2d.h"
+	<cmath>
+	<cstdlib>
+	<algorithm>
+	<iostream>
+
+1326281625 /home/ja227/Desktop/c++ projects/isoterrain/intvector3d.h
+
+1336533735 source:/home/ja227/Desktop/c++ projects/isoterrain/TerrainEroder.cpp
+	"TerrainEroder.h"
+	"SlopeFaller.h"
+	"intvector2d.h"
+	<algorithm>
+	<stack>
+	<iostream>
+
+1327708861 /home/ja227/Desktop/c++ projects/isoterrain/TerrainEroder.h
+	"IsoTerrain.h"
+	"intvector3d.h"
+	<types/mytypes.h>
+	<vector>
+	"NeighborTally.h"
+
+1326644785 source:/home/ja227/Desktop/c++ projects/isoterrain/SlopeFaller.cpp
+	"SlopeFaller.h"
+	<stack>
+	<algorithm>
+
+1326639889 /home/ja227/Desktop/c++ projects/isoterrain/SlopeFaller.h
+	"IsoTerrain.h"
+	"TerrainEroder.h"
+
+1326299064 source:/home/ja227/Desktop/c++ projects/isoterrain/FlowFieldDrawer.cpp
+	"FlowFieldDrawer.h"
+	<allegro.h>
+	<algorithm>
+
+1326297351 /home/ja227/Desktop/c++ projects/isoterrain/FlowFieldDrawer.h
+	"TerrainEroder.h"
+
+1327710277 /home/ja227/Desktop/c++ projects/isoterrain/NeighborTally.h
+	<types/mytypes.h>
+	<algorithm>
+
+1327710543 source:/home/ja227/Desktop/c++ projects/isoterrain/NeighborTally.cpp
+	"NeighborTally.h"
+
+1333181344 source:/home/ja227/Desktop/c++ projects/isoterrain/RiverEroder.cpp
+	"RiverEroder.h"
+	<stack>
+	<algorithm>
+	<allegro.h>
+	<list>
+	<iostream>
+
+1333178869 /home/ja227/Desktop/c++ projects/isoterrain/RiverEroder.h
+	"IsoTerrain.h"
+	<types/mytypes.h>
+
+1332924850 /home/ja227/Desktop/c++ projects/isoterrain/TerrainColors.h
+
+1332924948 source:/home/ja227/Desktop/c++ projects/isoterrain/TerrainColors.cpp
+	"TerrainColors.h"
+
+1337057684 /home/ja227/Desktop/c++ projects/dendrite/dendrite.h
+	"ShuffleQueue.h"
+
+1337041842 source:/home/ja227/Desktop/c++ projects/dendrite/dendrite.cpp
+	<allegro.h>
+	"dendrite.h"
+	<algorithm>
+	<iostream>
+	<cstring>
+	<list>
+	"startdirs.inl"
+
+1335476702 /home/ja227/Desktop/c++ projects/dendrite/ShuffleQueue.h
+	<queue>
+
+1335135759 /home/ja227/Desktop/c++ projects/dendrite/startdirs.inl
+
+1336719453 source:/home/ja227/Desktop/c++ projects/dendrite/DendriteDrawer.cpp
+	"DendriteDrawer.h"
+
+1335564504 /home/ja227/Desktop/c++ projects/dendrite/DendriteDrawer.h
+	"dendrite.h"
+	<allegro.h>
+
+1332650382 /home/ja227/Desktop/c++ projects/intvector2d/intvector2d.h
+

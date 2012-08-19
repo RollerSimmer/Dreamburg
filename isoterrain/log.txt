@@ -1,0 +1,79 @@
+2012:Jan:02:AM:04:51
+	+	started on file to test terrain generation methods in isometric perspective
+	+	also I want to test drawing isometric perspective in allegro.
+2012:Jan:02:AM:08:39
+	+	need to fix smoothing function in IsoTerrain class
+2012:Jan:04:AM:01:32
+	+	Map draws pretty well right now.  Now I need to add some erosion functions.
+2012:Jan:04:AM:09:25
+	+	smaller tiles.  bigger map.  renders slow on large maps, but still managable.
+2012:Jan:08:AM:01:27
+	+	can zoom in and out now.  can also regenerate random heights for terrain.
+2012:Jan:09:AM:01:50
+	+	can now raise octagons in a randomly scattered distribution.
+2012:Jan:10:AM:05:23
+	+	started on a terrain eroder class
+	+	everything in terrain eroder is coded except for the individual drop processor
+		for finding flow path and carrying out the erosion.
+2012:Jan:11:AM:11:00
+	+	having trouble with erosion.  use visited flags, and many other features, but
+		it keeps making deep pits and doesn't erode
+	+	instead of flow fields, just use visited flags when i continue coding.  filter
+		out low drops that have been visited in a single drop fall.  I'll get there
+		eventually.
+2012:Jan:15:AM:07:41
+	+	Going to try a method to account for water flow strength, based on the slope
+		of each drop
+2012:Jan:15:AM:01:31
+	+	Still working on it.  Did a lot today, but code needs more modifications to
+		produce accurate slopes.  Can't tell what needs to be done though.
+2012:Jan:27:PM:07:18
+	+	Screwed things up
+	+	Added more controls for erosion (interfaced with keyboard).
+	+	new "neighbor tally" element added to erosion algorithm
+2012:Feb:18:AM:05:02
+	+
+2012:Mar:18:PM:07:10
+	+	Trying a new method: "peaks and valleys"
+2012:Mar:21:AM:01:23
+	+	Added a river erosion function to have more realistic erosion.
+	+	need to fix river erosion's drop selection so it doesn't always
+		go diagonal down dome slope.  add a tolerance perhaps?
+2012:Mar:22:AM:07:12
+	+	Added a skyline drawer and modified the drop down code.
+	+	later, I want to scan a larger area for drops
+2012:Mar:23:PM:10:33
+	+	RiverEroder should have a steady slope downward.  Waterfalls go off of
+		cliffs, so the steady level will obviously drop there, but it shouldn't
+		rise. Constantly seek downward course at a grade.  Drop a certain
+		amount every horizontal step, unless the land drops more. the drop should
+		be either scaled or a float.
+	+	To do: rugged terrain function
+2012:Mar:24:AM:12:54
+	+	Finished steady-slope river erosion, rugged terrain
+2012:Mar:24:AM:03:33
+	+	Colored terrain added
+	+	Screen updates only when keys are presed
+2012:Mar:25:AM:02:13
+	+	added a terrain inverter
+	+	added a voronoi ridge function
+	+	added a sharp hill primitive
+	+	things are looking pretty good
+2012:Mar:25:AM:08:40
+	+	Added a sine mesh primitive, a terrain halver, and a terrain doubler
+2012:Mar:28:AM:04:13
+	+	Terrain gradient color added, other slight modifications of existing functions
+2012:Apr:27:AM:08:45
+	+	Linked IsoTerrain with dendrite, still working on it
+2012:May:08:AM:06:27
+	+	IsoTerrain::WedgeCut is a work in progress.  I have the xy direction working,
+		need to put in code for both slope of wedge (forward) and pitch of bank (sideways).
+2012:May:08:PM:08:47
+	+	IsoTerrain::WedgeCut seems to work now.  Now to implement it into DendriteErode
+2012:May:09:PM:12:18
+	+	IsoTerrain::Wedge and Wedge work, ScramblePyramids and others added.
+	+	Messed up TerrainEroder, had to replace with backup from March 20.
+
+
+
+

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="IsoTerrain" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/IsoTerrain" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="&gt; output.txt " />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Linker>
+			<Add library="/usr/lib/liballeg.so.4.2" />
+		</Linker>
+		<Unit filename="../chaser/intvector2d.cpp" />
+		<Unit filename="../dendrite/DendriteDrawer.cpp" />
+		<Unit filename="../dendrite/dendrite.cpp" />
+		<Unit filename="IsoTerrain.cpp" />
+		<Unit filename="IsoTerrain.h" />
+		<Unit filename="MapDrawer.cpp" />
+		<Unit filename="MapDrawer.h" />
+		<Unit filename="NeighborTally.cpp" />
+		<Unit filename="NeighborTally.h" />
+		<Unit filename="RiverEroder.cpp" />
+		<Unit filename="RiverEroder.h" />
+		<Unit filename="SlopeFaller.cpp" />
+		<Unit filename="SlopeFaller.h" />
+		<Unit filename="TerrainColors.cpp" />
+		<Unit filename="TerrainColors.h" />
+		<Unit filename="TerrainEroder.cpp" />
+		<Unit filename="TerrainEroder.h" />
+		<Unit filename="intvector2d.h" />
+		<Unit filename="intvector3d.cpp" />
+		<Unit filename="intvector3d.h" />
+		<Unit filename="log.txt" />
+		<Unit filename="main.cpp" />
+		<Unit filename="output.txt" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,17 @@
+2012:Apr:22:PM:09:22
+	+	Got some things to work.
+	+	need to fix crossing lines (X)
+2012:Apr:24:PM:09:33
+	+	Need deeper path searching.  Find a target before moving.
+	+	Too many circles and aimless paths
+2012:Apr:26:PM:07:33
+	+	Tried backtracing method.  Worked perfectly!
+	+	captured a video at 100x100x6
+	+	added visited count to lattice point structure.
+	+	Limiting Shuffle times to 20 improves speed significantly
+2012:Apr:27:PM:07:54
+	+	Fixed an endless loop in the trace backwards function by creating
+		a designated "exit point"
+2012:May:14:PM:08:48
+	+	Modified some code in ScatterWalk() and made subroutines.
+	+	Now there are multiple seed points.
